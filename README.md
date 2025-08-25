@@ -6,8 +6,7 @@ It demonstrates how WebSockets work under the hood for **real-time communication
 ---
 
 ## 📂 Project Structure
-!readme
-
+!Project Structure
 
 ---
 
