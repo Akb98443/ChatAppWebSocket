@@ -6,7 +6,7 @@ It demonstrates how WebSockets work under the hood for **real-time communication
 ---
 
 ## 📂 Project Structure
-!Project Structure
+![Project Structure](assets/readme.png)
 
 
 ---
