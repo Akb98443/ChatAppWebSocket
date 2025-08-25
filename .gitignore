@@ -1,0 +1,29 @@
+﻿# Ignore Visual Studio folder
+.vs/
+
+# Ignore build output
+bin/
+obj/
+artifacts/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore WebSocket debug files
+*.pdb
+*.cache
+
+# SQL Server files
+*.mdf
+*.ldf
